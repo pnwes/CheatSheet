@@ -1,0 +1,29 @@
+body {
+    font-family: Montserrat;
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    color: rgb(211, 86, 14);
+    text-align: center;
+}
+thead {
+    background-color: rgb(218, 207, 52);
+}
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
+table {
+    border: 2px solid darkseagreen;
+    width: 650px;
+    margin: 0 auto;
+}
+td {
+    border-top: 1px solid darkseagreen;
+    border-left: 1px solid darkseagreen;
+    border-right: 1px solid darkseagreen;
+    border-bottom: 1px solid darkseagreen;;
+}
